@@ -10,5 +10,8 @@ Credit Risk is a real-world challenge. In this Project, we predict credit risk w
 # Results
 
 - Naive Random Oversampling results:
-The balanced accuracy test is 66%,the precision for the high_risk has a very low positivity at 1% and the recall is 70%
+The balanced accuracy test is 66%,the precision for the high_risk has a very low positivity at 1% and the recall is 70%.
+
+
+
 ![img](https://github.com/Edgarhv/Credit_Risk_Analysis/blob/cd55eee92a8f5776da3de6a1367f71f4b2bf4a51/Resources/Naive%20Random%20Oversampling.png)
