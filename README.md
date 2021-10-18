@@ -3,9 +3,18 @@
 ![img](https://github.com/Edgarhv/Credit_Risk_Analysis/blob/ba3bc9be21295848e416291bc7a184f15695e953/GlitteringMatureAfricangoldencat.gif)
 ###### source:https://gfycat.com/glitteringmatureafricangoldencat-charge-card-credit-card-chargecard-creditcard
 
+# Resources
+- Software: Visual Studio Code, Jupyter Lab
+- Languages: Python
+- Libraries: numpy, pandas, matplotlib, seaborn, scikit-learn
+- Data Sources: LoanStats_2019Q1.csv
+
+
 # Overview
 
 Credit Risk is a real-world challenge. In this Project, we predict credit risk with several machine learning models. Being able to predict credit risk with machine learning algorithms can help banks and financial institutions predict anomalies, reduce risk cases, monitor portfolios, and provide recommendations on what to do in cases of fraud.
+
+
 
 # Results
 
@@ -29,3 +38,7 @@ the accuracy score is 66.2%, the precision for the high_risk loans has a low pos
 
 - Easy Ensemble AdaBoost Classifier results: the accuracy score is 91.7% the precision is 99% and the recall is 94%
 ![img](https://github.com/Edgarhv/Credit_Risk_Analysis/blob/6b345950fc0956f286a38b8f43f44171ee770246/Resources/Easy%20Ensemble%20AdaBoost%20Classifier.png)
+
+# Summary
+
+Easy Ensemble has the best balance of all the models because of its high accuracy score and good balance of precision and recall scores. On the other hand, The models  Naive, SMOTE, and Cluster centroids, there are not the best, because they have very low accuracy-test points.
