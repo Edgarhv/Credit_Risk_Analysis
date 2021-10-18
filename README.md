@@ -9,3 +9,4 @@ Credit Risk is a real-world challenge. In this Project, we predict credit risk w
 
 # Results
 
+- Naive Random Oversampling results:
