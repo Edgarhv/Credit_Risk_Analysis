@@ -15,3 +15,8 @@ The balanced accuracy test is 66%,the precision for the high_risk has a very low
 
 
 ![img](https://github.com/Edgarhv/Credit_Risk_Analysis/blob/cd55eee92a8f5776da3de6a1367f71f4b2bf4a51/Resources/Naive%20Random%20Oversampling.png)
+
+
+- SMOTE oversampling results:
+the accuracy score is 66.2%, the precision for the high_risk loans has a low positvity again at 1% and recall is 69% overall
+![img](https://github.com/Edgarhv/Credit_Risk_Analysis/blob/bace33a124939928d71c41392174ae6cecfad358/Resources/SMOTE%20oversampling.png)
