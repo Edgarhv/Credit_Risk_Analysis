@@ -26,3 +26,6 @@ the accuracy score is 66.2%, the precision for the high_risk loans has a low pos
 
 -Balanced Random Forest Classifier results: the accuracy score is 77.4% the precision is 99% and the recall is 88%
 ![img](https://github.com/Edgarhv/Credit_Risk_Analysis/blob/bb091012a1334d33a3000f899662e2708ba4d007/Resources/Balanced%20Random%20Forest.png)
+
+-Easy Ensemble AdaBoost Classifier results: the accuracy score is 91.7% the precision is 99% and the recall is 94%
+![img](https://github.com/Edgarhv/Credit_Risk_Analysis/blob/6b345950fc0956f286a38b8f43f44171ee770246/Resources/Easy%20Ensemble%20AdaBoost%20Classifier.png)
