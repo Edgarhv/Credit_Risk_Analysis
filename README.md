@@ -18,14 +18,14 @@ The balanced accuracy test is 66%,the precision for the high_risk has a very low
 the accuracy score is 66.2%, the precision for the high_risk loans has a low positvity again at 1% and recall is 69% overall
 ![img](https://github.com/Edgarhv/Credit_Risk_Analysis/blob/bace33a124939928d71c41392174ae6cecfad358/Resources/SMOTE%20oversampling.png)
 
--Undersampling results: balanced accuracy score is 66.2% overall, the precision is at 99% and the recall is 40%
+- Undersampling results: balanced accuracy score is 66.2% overall, the precision is at 99% and the recall is 40%
 ![img](https://github.com/Edgarhv/Credit_Risk_Analysis/blob/d00af630b3f1f47879eae1af6b6340a8014f02f9/Resources/Undersampling.png)
 
--Combination(over and undersampling) results: balanced accuracy score is 54.4% the precision is 99% and the recall is 57% overall
+- Combination(over and undersampling) results: balanced accuracy score is 54.4% the precision is 99% and the recall is 57% overall
 ![img](https://github.com/Edgarhv/Credit_Risk_Analysis/blob/c7bc8e1e0a70034ab0d15a62972374ff80cc8a26/Resources/Combination.png)
 
--Balanced Random Forest Classifier results: the accuracy score is 77.4% the precision is 99% and the recall is 88%
+- Balanced Random Forest Classifier results: the accuracy score is 77.4% the precision is 99% and the recall is 88%
 ![img](https://github.com/Edgarhv/Credit_Risk_Analysis/blob/bb091012a1334d33a3000f899662e2708ba4d007/Resources/Balanced%20Random%20Forest.png)
 
--Easy Ensemble AdaBoost Classifier results: the accuracy score is 91.7% the precision is 99% and the recall is 94%
+- Easy Ensemble AdaBoost Classifier results: the accuracy score is 91.7% the precision is 99% and the recall is 94%
 ![img](https://github.com/Edgarhv/Credit_Risk_Analysis/blob/6b345950fc0956f286a38b8f43f44171ee770246/Resources/Easy%20Ensemble%20AdaBoost%20Classifier.png)
