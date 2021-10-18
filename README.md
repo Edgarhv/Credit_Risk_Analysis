@@ -4,3 +4,5 @@
 ###### source:https://gfycat.com/glitteringmatureafricangoldencat-charge-card-credit-card-chargecard-creditcard
 
 # Overview
+
+Credit Risk is a real-world challenge. In this Project, we predict credit risk with several machine learning models. Being able to predict credit risk with machine learning algorithms can help banks and financial institutions predict anomalies, reduce risk cases, monitor portfolios, and provide recommendations on what to do in cases of fraud.
